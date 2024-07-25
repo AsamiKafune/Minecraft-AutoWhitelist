@@ -16,8 +16,8 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      googlerecapcha: "",
-      api: "http://localhost:3001"
+      googlerecapcha: "6LfcVAMqAAAAACoS_DakEu0PRT3SHkzCVecevHwZ",
+      api: "https://api-skyrealm-register.kfn.moe"
     }
   }
 })

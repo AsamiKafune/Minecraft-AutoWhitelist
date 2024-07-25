@@ -127,13 +127,6 @@ async function QRbankSlip(c) {
               *รับแค่ธนาคารที่สลิปมี QRCode
             </p>
             <div class="p-2 mt-2 rounded-md bg-white/5">
-              <div>
-                <p class="font-bold">โอนผ่าน QRCode นี้</p>
-                <img src="/img/qr.png" class="mx-auto max-w-[150px] mt-2" alt="">
-              </div>
-              <div class="mx-auto h-[2px] w-[80px] mt-2 bg-white/20"></div>
-              
-              <p class="font-bold text-xs">หรือเลขบัญชี</p>
               <h1 class="text-xl font-bold">
                 640-2-21602-4
               </h1>
